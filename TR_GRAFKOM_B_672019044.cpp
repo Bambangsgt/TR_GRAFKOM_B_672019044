@@ -72,7 +72,7 @@ int main(int argc, char** argv)
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
     glutInitWindowSize(900, 700);
     glutInitWindowPosition(250, 80);
-    glutCreateWindow("Muhamad Makhasinul Maarif - 672019067");
+    glutCreateWindow("MOROCCO MALL");
     init();
     glutDisplayFunc(tampil);
     glutKeyboardFunc(keyboard);
